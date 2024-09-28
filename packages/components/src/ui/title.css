@@ -1,0 +1,21 @@
+.title-container {
+  margin-top: .75rem;
+}
+
+.title {
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem; 
+  font-size: 2.25rem;
+  line-height: 2.5rem; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+  font-weight: 600;
+}
+
+
+
+.subtitle {
+  margin-bottom: 1.25rem; 
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
